@@ -5,7 +5,7 @@ The Asus Zenfone Max M2 (codenamed _"X01AD"_) is a mid-range smartphone from Asu
 It was announced on December, 2018.
 
 Basic   | Spec Sheet
--------:|:-------------------------
+-------:|:--------------------------
 CPU     | Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)
 Chipset | Qualcomm SDM632 Snapdragon 632 (14 nm)
 GPU     | Adreno 506
